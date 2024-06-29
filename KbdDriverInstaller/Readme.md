@@ -1,22 +1,6 @@
-﻿# todo: 
-implement registry rollback after failed change via. 
-https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/reg-export
+﻿# Readme - KbdLayoutInstaller
 
-add layoutdisplay-name when creating/editing a Layout
-
-abort registration if current language uses TIP, TIP is not supported so far
-
-add uninstall layout functionality
-
-make installer form1 invisible alternative use setActiveKeyboardLayout
-might be possible to make this without a form, by using loadkeyboardlayout without setActive flag and using setactivelayoutKeyboard afterwards
-would be a bit cleaner
-
-add support to laod keyboard for TIP languages
-
-# Readme - KbdLayoutInstaller
-
-The maingoal of this Project is to deploy a given layout.dll without a system restart.
+The maingoal of this Project is to deploy a given layout.dll without a system restart.  
 
 The build procedure of this Project is setup, so that it compiles to the same folder as the main Project, so that the exe of this project can be called from the main project without a relative path.
 
@@ -180,3 +164,23 @@ but has additional flags to do a bit more like reseting shiftstate or reordering
 
 **GetKeyboardLayout** returns same value like InputLanguage.CurrentInputLanguage.Handle  
 https://learn.microsoft.com/de-de/windows/win32/api/winuser/nf-winuser-getkeyboardlayout?redirectedfrom=MSDN  
+
+# todo: 
+
+add registry Keyboard Layouts value that marks the Layouts created with this tool
+
+implement registry rollback after failed change via. 
+https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/reg-export
+
+add layoutdisplay-name when creating/editing a Layout
+
+abort registration if current language uses TIP, TIP is not supported so far
+
+add uninstall layout functionality
+
+make installer form1 invisible alternative use setActiveKeyboardLayout
+might be possible to make this without a form, by using loadkeyboardlayout without setActive flag and using setactivelayoutKeyboard afterwards
+would be a bit cleaner
+
+add support to laod keyboard for TIP languages
+
