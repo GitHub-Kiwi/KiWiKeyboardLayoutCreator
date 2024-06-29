@@ -1,0 +1,2781 @@
+{
+  "Properties": {
+    "KeyboardLayout": 4,
+    "BitModMapping": {
+      "KBDSHIFT": 16,
+      "KBDCTRL": 17,
+      "KBDALT": 18,
+      "KBDKANA": 21,
+      "KBDROYA": 150,
+      "KBDLOYA": 149,
+      "KBDCUSTOM": 158,
+      "KBDGRPSELTAP": 255
+    },
+    "KLLF_AltGr": true,
+    "KLLF_Shiftlock": false,
+    "KLLF_LrmRml": false
+  },
+  "Numpad": {
+    "NUMPAD0": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 96,
+      "KeyName": "NUMPAD0",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "0",
+        "4": "0"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD1": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 97,
+      "KeyName": "NUMPAD1",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "1",
+        "4": "1"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD2": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 98,
+      "KeyName": "NUMPAD2",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "2",
+        "4": "2"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD3": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 99,
+      "KeyName": "NUMPAD3",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "3",
+        "4": "3"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD4": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 100,
+      "KeyName": "NUMPAD4",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "4",
+        "4": "4"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD5": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 101,
+      "KeyName": "NUMPAD5",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "5",
+        "4": "5"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD6": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 102,
+      "KeyName": "NUMPAD6",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "6",
+        "4": "6"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD7": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 103,
+      "KeyName": "NUMPAD7",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "7",
+        "4": "7"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD8": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 104,
+      "KeyName": "NUMPAD8",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "8",
+        "4": "8"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "NUMPAD9": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 105,
+      "KeyName": "NUMPAD9",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "9",
+        "4": "9"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    "DECIMAL": {
+      "Location": {
+        "IsEmpty": true,
+        "X": 0,
+        "Y": 0
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 75,
+        "Height": 23
+      },
+      "Scancode": null,
+      "ExtensionKey": false,
+      "VirtualKey": 110,
+      "KeyName": "DECIMAL",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": ".",
+        "4": "."
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    }
+  },
+  "Keys": [
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 53,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 1,
+      "ExtensionKey": false,
+      "VirtualKey": 27,
+      "KeyName": "ESCAPE",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 161,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 59,
+      "ExtensionKey": false,
+      "VirtualKey": 112,
+      "KeyName": "F1",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 266,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 350,
+        "Height": 56
+      },
+      "Scancode": 57,
+      "ExtensionKey": false,
+      "VirtualKey": 32,
+      "KeyName": "SPACE",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": " "
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 218,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 60,
+      "ExtensionKey": false,
+      "VirtualKey": 113,
+      "KeyName": "F2",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 275,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 61,
+      "ExtensionKey": false,
+      "VirtualKey": 114,
+      "KeyName": "F3",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 332,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 62,
+      "ExtensionKey": false,
+      "VirtualKey": 115,
+      "KeyName": "F4",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 435,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 63,
+      "ExtensionKey": false,
+      "VirtualKey": 116,
+      "KeyName": "F5",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 492,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 64,
+      "ExtensionKey": false,
+      "VirtualKey": 117,
+      "KeyName": "F6",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 549,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 65,
+      "ExtensionKey": false,
+      "VirtualKey": 118,
+      "KeyName": "F7",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 606,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 66,
+      "ExtensionKey": false,
+      "VirtualKey": 119,
+      "KeyName": "F8",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 707,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 67,
+      "ExtensionKey": false,
+      "VirtualKey": 120,
+      "KeyName": "F9",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 764,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 68,
+      "ExtensionKey": false,
+      "VirtualKey": 121,
+      "KeyName": "F10",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 821,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 87,
+      "ExtensionKey": false,
+      "VirtualKey": 122,
+      "KeyName": "F11",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 878,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 88,
+      "ExtensionKey": false,
+      "VirtualKey": 123,
+      "KeyName": "F12",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 956,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 55,
+      "ExtensionKey": true,
+      "VirtualKey": 44,
+      "KeyName": "SNAPSHOT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1013,
+        "Y": 59
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 70,
+      "ExtensionKey": false,
+      "VirtualKey": 145,
+      "KeyName": "SCROLL",
+      "VKHandlingMask": 512,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 53,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 41,
+      "ExtensionKey": false,
+      "VirtualKey": 192,
+      "KeyName": "OEM_3",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "\u0060",
+        "1": "~"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 110,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 2,
+      "ExtensionKey": false,
+      "VirtualKey": 49,
+      "KeyName": "1",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "1",
+        "1": "!",
+        "6": "\u00A1",
+        "7": "\u00B9"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 167,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 3,
+      "ExtensionKey": false,
+      "VirtualKey": 50,
+      "KeyName": "2",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "2",
+        "1": "@",
+        "6": "\u00B2"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 224,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 4,
+      "ExtensionKey": false,
+      "VirtualKey": 51,
+      "KeyName": "3",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "3",
+        "1": "#",
+        "6": "\u00B3"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 281,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 5,
+      "ExtensionKey": false,
+      "VirtualKey": 52,
+      "KeyName": "4",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "4",
+        "1": "$",
+        "6": "\u00A4",
+        "7": "\u00A3"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 338,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 6,
+      "ExtensionKey": false,
+      "VirtualKey": 53,
+      "KeyName": "5",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "5",
+        "1": "%",
+        "6": "\u20AC"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 395,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 7,
+      "ExtensionKey": false,
+      "VirtualKey": 54,
+      "KeyName": "6",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "6",
+        "1": "^",
+        "6": "\u00BC"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 452,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 8,
+      "ExtensionKey": false,
+      "VirtualKey": 55,
+      "KeyName": "7",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "7",
+        "1": "\u0026",
+        "6": "\u00BD"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 509,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 9,
+      "ExtensionKey": false,
+      "VirtualKey": 56,
+      "KeyName": "8",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "8",
+        "1": "*",
+        "6": "\u00BE"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 566,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 10,
+      "ExtensionKey": false,
+      "VirtualKey": 57,
+      "KeyName": "9",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "9",
+        "1": "(",
+        "6": "\u2018"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 623,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 11,
+      "ExtensionKey": false,
+      "VirtualKey": 48,
+      "KeyName": "0",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "0",
+        "1": ")",
+        "6": "\u2019"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 680,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 12,
+      "ExtensionKey": false,
+      "VirtualKey": 189,
+      "KeyName": "OEM_MINUS",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "-",
+        "1": "_",
+        "6": "\u00A5"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 737,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 13,
+      "ExtensionKey": false,
+      "VirtualKey": 187,
+      "KeyName": "OEM_PLUS",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "=",
+        "1": "\u002B",
+        "6": "\u00D7",
+        "7": "\u00F7"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 794,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 112,
+        "Height": 56
+      },
+      "Scancode": 14,
+      "ExtensionKey": false,
+      "VirtualKey": 8,
+      "KeyName": "BACK",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "\b",
+        "2": "\u007F"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 54,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 84,
+        "Height": 56
+      },
+      "Scancode": 15,
+      "ExtensionKey": false,
+      "VirtualKey": 9,
+      "KeyName": "TAB",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "2": "\t"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 139,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 16,
+      "ExtensionKey": false,
+      "VirtualKey": 81,
+      "KeyName": "Q",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "Q",
+        "0": "q",
+        "6": "\u00E4",
+        "7": "\u00C4"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 196,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 17,
+      "ExtensionKey": false,
+      "VirtualKey": 87,
+      "KeyName": "W",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "W",
+        "0": "w",
+        "6": "\u00E5",
+        "7": "\u00C5"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 253,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 18,
+      "ExtensionKey": false,
+      "VirtualKey": 69,
+      "KeyName": "E",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "E",
+        "0": "e",
+        "6": "\u00E9",
+        "7": "\u00C9"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 310,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 19,
+      "ExtensionKey": false,
+      "VirtualKey": 82,
+      "KeyName": "R",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "R",
+        "0": "r",
+        "6": "\u00AE"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 367,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 20,
+      "ExtensionKey": false,
+      "VirtualKey": 84,
+      "KeyName": "T",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "T",
+        "0": "t",
+        "6": "\u00FE",
+        "7": "\u00DE"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 424,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 21,
+      "ExtensionKey": false,
+      "VirtualKey": 89,
+      "KeyName": "Y",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "Y",
+        "0": "y",
+        "6": "\u00FC",
+        "7": "\u00DC"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 481,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 22,
+      "ExtensionKey": false,
+      "VirtualKey": 85,
+      "KeyName": "U",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "U",
+        "0": "u",
+        "6": "\u00FA",
+        "7": "\u00DA"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 538,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 23,
+      "ExtensionKey": false,
+      "VirtualKey": 73,
+      "KeyName": "I",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "I",
+        "0": "i",
+        "6": "\u00ED",
+        "7": "\u00CD"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 595,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 24,
+      "ExtensionKey": false,
+      "VirtualKey": 79,
+      "KeyName": "O",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "O",
+        "0": "o",
+        "6": "\u00F3",
+        "7": "\u00D3"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 652,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 25,
+      "ExtensionKey": false,
+      "VirtualKey": 80,
+      "KeyName": "P",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "1": "P",
+        "0": "p",
+        "6": "\u00F6",
+        "7": "\u00D6"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 709,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 26,
+      "ExtensionKey": false,
+      "VirtualKey": 219,
+      "KeyName": "OEM_4",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "1": "{",
+        "0": "[",
+        "6": "\u00AB"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 766,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 27,
+      "ExtensionKey": false,
+      "VirtualKey": 221,
+      "KeyName": "OEM_6",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "1": "}",
+        "0": "]",
+        "6": "\u00BB"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 823,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 84,
+        "Height": 56
+      },
+      "Scancode": 43,
+      "ExtensionKey": false,
+      "VirtualKey": 220,
+      "KeyName": "OEM_5",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "1": "|",
+        "6": "\u00AC",
+        "0": "\\",
+        "7": "\u00A6"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 54,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 98,
+        "Height": 56
+      },
+      "Scancode": 58,
+      "ExtensionKey": false,
+      "VirtualKey": 20,
+      "KeyName": "CAPITAL",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 153,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 30,
+      "ExtensionKey": false,
+      "VirtualKey": 65,
+      "KeyName": "A",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "a",
+        "1": "A",
+        "6": "\u00E1",
+        "7": "\u00C1"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 210,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 31,
+      "ExtensionKey": false,
+      "VirtualKey": 83,
+      "KeyName": "S",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "s",
+        "1": "S",
+        "6": "\u00DF",
+        "7": "\u00A7"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 267,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 32,
+      "ExtensionKey": false,
+      "VirtualKey": 68,
+      "KeyName": "D",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "d",
+        "1": "D",
+        "6": "\u00F0",
+        "7": "\u00D0"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 324,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 33,
+      "ExtensionKey": false,
+      "VirtualKey": 70,
+      "KeyName": "F",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "f",
+        "1": "F"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 381,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 34,
+      "ExtensionKey": false,
+      "VirtualKey": 71,
+      "KeyName": "G",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "g",
+        "1": "G"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 438,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 35,
+      "ExtensionKey": false,
+      "VirtualKey": 72,
+      "KeyName": "H",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "h",
+        "1": "H"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 495,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 36,
+      "ExtensionKey": false,
+      "VirtualKey": 74,
+      "KeyName": "J",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "j",
+        "1": "J"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 552,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 37,
+      "ExtensionKey": false,
+      "VirtualKey": 75,
+      "KeyName": "K",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "k",
+        "1": "K"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 609,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 38,
+      "ExtensionKey": false,
+      "VirtualKey": 76,
+      "KeyName": "L",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "l",
+        "1": "L",
+        "6": "\u00F8",
+        "7": "\u00D8"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 666,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 39,
+      "ExtensionKey": false,
+      "VirtualKey": 186,
+      "KeyName": "OEM_1",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": ";",
+        "1": ":",
+        "6": "\u00B6",
+        "7": "\u00B0"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 723,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 40,
+      "ExtensionKey": false,
+      "VirtualKey": 222,
+      "KeyName": "OEM_7",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "\u0027",
+        "1": "\u0022",
+        "6": "\u00B4",
+        "7": "\u00A8"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 780,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 126,
+        "Height": 56
+      },
+      "Scancode": 28,
+      "ExtensionKey": false,
+      "VirtualKey": 13,
+      "KeyName": "RETURN",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "\r"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 54,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 126,
+        "Height": 56
+      },
+      "Scancode": 42,
+      "ExtensionKey": false,
+      "VirtualKey": 160,
+      "KeyName": "LSHIFT",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 181,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 44,
+      "ExtensionKey": false,
+      "VirtualKey": 90,
+      "KeyName": "Z",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "z",
+        "1": "Z",
+        "6": "\u00E6",
+        "7": "\u00C6"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 238,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 45,
+      "ExtensionKey": false,
+      "VirtualKey": 88,
+      "KeyName": "X",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "x",
+        "1": "X"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 295,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 46,
+      "ExtensionKey": false,
+      "VirtualKey": 67,
+      "KeyName": "C",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "c",
+        "1": "C",
+        "6": "\u00A9",
+        "7": "\u00A2"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 352,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 47,
+      "ExtensionKey": false,
+      "VirtualKey": 86,
+      "KeyName": "V",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "v",
+        "1": "V"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 409,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 48,
+      "ExtensionKey": false,
+      "VirtualKey": 66,
+      "KeyName": "B",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "b",
+        "1": "B"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 466,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 49,
+      "ExtensionKey": false,
+      "VirtualKey": 78,
+      "KeyName": "N",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "n",
+        "1": "N",
+        "6": "\u00F1",
+        "7": "\u00D1"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 523,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 50,
+      "ExtensionKey": false,
+      "VirtualKey": 77,
+      "KeyName": "M",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 1,
+      "Layers": {
+        "0": "m",
+        "1": "M",
+        "6": "\u00B5"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 580,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 51,
+      "ExtensionKey": false,
+      "VirtualKey": 188,
+      "KeyName": "OEM_COMMA",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": ",",
+        "1": "\u003C",
+        "6": "\u00E7",
+        "7": "\u00C7"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 638,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 52,
+      "ExtensionKey": false,
+      "VirtualKey": 190,
+      "KeyName": "OEM_PERIOD",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": ".",
+        "1": "\u003E"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 695,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 53,
+      "ExtensionKey": false,
+      "VirtualKey": 191,
+      "KeyName": "OEM_2",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "/",
+        "1": "?",
+        "6": "\u00BF"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 752,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 154,
+        "Height": 56
+      },
+      "Scancode": 54,
+      "ExtensionKey": false,
+      "VirtualKey": 161,
+      "KeyName": "RSHIFT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 54,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 29,
+      "ExtensionKey": false,
+      "VirtualKey": 162,
+      "KeyName": "LCONTROL",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 124,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 91,
+      "ExtensionKey": true,
+      "VirtualKey": 91,
+      "KeyName": "LWIN",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 195,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 56,
+      "ExtensionKey": false,
+      "VirtualKey": 164,
+      "KeyName": "LMENU",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 617,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 56,
+      "ExtensionKey": true,
+      "VirtualKey": 165,
+      "KeyName": "RMENU",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 688,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 92,
+      "ExtensionKey": true,
+      "VirtualKey": 92,
+      "KeyName": "RWIN",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 759,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 93,
+      "ExtensionKey": true,
+      "VirtualKey": 93,
+      "KeyName": "APPS",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 830,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 70,
+        "Height": 56
+      },
+      "Scancode": 29,
+      "ExtensionKey": true,
+      "VirtualKey": 163,
+      "KeyName": "RCONTROL",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 958,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 82,
+      "ExtensionKey": true,
+      "VirtualKey": 45,
+      "KeyName": "INSERT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1015,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 71,
+      "ExtensionKey": true,
+      "VirtualKey": 36,
+      "KeyName": "HOME",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1072,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 73,
+      "ExtensionKey": true,
+      "VirtualKey": 33,
+      "KeyName": "PRIOR",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 958,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 83,
+      "ExtensionKey": true,
+      "VirtualKey": 46,
+      "KeyName": "DELETE",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1015,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 79,
+      "ExtensionKey": true,
+      "VirtualKey": 35,
+      "KeyName": "END",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1072,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 81,
+      "ExtensionKey": true,
+      "VirtualKey": 34,
+      "KeyName": "NEXT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 955,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 75,
+      "ExtensionKey": true,
+      "VirtualKey": 37,
+      "KeyName": "LEFT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1012,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 80,
+      "ExtensionKey": true,
+      "VirtualKey": 40,
+      "KeyName": "DOWN",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1069,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 77,
+      "ExtensionKey": true,
+      "VirtualKey": 39,
+      "KeyName": "RIGHT",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1011,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 72,
+      "ExtensionKey": true,
+      "VirtualKey": 38,
+      "KeyName": "UP",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1240,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 72,
+      "ExtensionKey": false,
+      "VirtualKey": 38,
+      "KeyName": "UP",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1241,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 76,
+      "ExtensionKey": false,
+      "VirtualKey": 12,
+      "KeyName": "CLEAR",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1298,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 77,
+      "ExtensionKey": false,
+      "VirtualKey": 39,
+      "KeyName": "RIGHT",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1184,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 71,
+      "ExtensionKey": false,
+      "VirtualKey": 36,
+      "KeyName": "HOME",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1184,
+        "Y": 287
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 75,
+      "ExtensionKey": false,
+      "VirtualKey": 37,
+      "KeyName": "LEFT",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1184,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 69,
+      "ExtensionKey": false,
+      "VirtualKey": 144,
+      "KeyName": "NUMLOCK",
+      "VKHandlingMask": 768,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1297,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 73,
+      "ExtensionKey": false,
+      "VirtualKey": 33,
+      "KeyName": "PRIOR",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1298,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 81,
+      "ExtensionKey": false,
+      "VirtualKey": 34,
+      "KeyName": "NEXT",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1184,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 79,
+      "ExtensionKey": false,
+      "VirtualKey": 35,
+      "KeyName": "END",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1354,
+        "Y": 230
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 112
+      },
+      "Scancode": 78,
+      "ExtensionKey": false,
+      "VirtualKey": 107,
+      "KeyName": "ADD",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "\u002B"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1355,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 112
+      },
+      "Scancode": 28,
+      "ExtensionKey": true,
+      "VirtualKey": 13,
+      "KeyName": "RETURN",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1183,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 112,
+        "Height": 56
+      },
+      "Scancode": 82,
+      "ExtensionKey": false,
+      "VirtualKey": 45,
+      "KeyName": "INSERT",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1241,
+        "Y": 344
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 80,
+      "ExtensionKey": false,
+      "VirtualKey": 40,
+      "KeyName": "DOWN",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1296,
+        "Y": 401
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 83,
+      "ExtensionKey": false,
+      "VirtualKey": 46,
+      "KeyName": "DELETE",
+      "VKHandlingMask": 3072,
+      "LayerLockmask": 0,
+      "Layers": {},
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1241,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 53,
+      "ExtensionKey": true,
+      "VirtualKey": 111,
+      "KeyName": "DIVIDE",
+      "VKHandlingMask": 256,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "/"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1298,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 55,
+      "ExtensionKey": false,
+      "VirtualKey": 106,
+      "KeyName": "MULTIPLY",
+      "VKHandlingMask": 512,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "*"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    },
+    {
+      "Location": {
+        "IsEmpty": false,
+        "X": 1355,
+        "Y": 173
+      },
+      "Size": {
+        "IsEmpty": false,
+        "Width": 56,
+        "Height": 56
+      },
+      "Scancode": 74,
+      "ExtensionKey": false,
+      "VirtualKey": 109,
+      "KeyName": "SUBTRACT",
+      "VKHandlingMask": 0,
+      "LayerLockmask": 0,
+      "Layers": {
+        "0": "-"
+      },
+      "LayersNLS": {},
+      "LayersNLSKeyUpMask": 0,
+      "LayersNLSKeyUp": {}
+    }
+  ]
+}
